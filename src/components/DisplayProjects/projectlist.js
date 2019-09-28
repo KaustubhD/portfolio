@@ -8,40 +8,40 @@ const ICONS = {
 }
 
 export const PROJECTS = [
-  {
-    name: 'Game Of Life',
-    desc: 'A game of life implementation',
-    icons: [ICONS.js],
-    link: 'https://github.com/KayDee/Game-of-Life'
-  },
+  // {
+  //   name: 'Game Of Life',
+  //   desc: 'A game of life implementation',
+  //   icons: [ICONS.js],
+  //   link: 'https://github.com/KaustubhD/Game-of-Life'
+  // },
   {
     name: 'CYK',
     desc: 'An implementation of CYK for grammers',
     icons: [ICONS.java],
-    link: 'https://github.com/KayDee/CYK-implementation-JAVA'
+    link: 'https://github.com/KaustubhD/CYK-implementation-JAVA'
   },
-  {
-    name: 'Playlists App',
-    desc: 'An app displaying your spotify playlists',
-    icons: [ICONS.react, ICONS.js],
-    link: 'https://github.com/KayDee/playlist-app'
-  },
+  // {
+  //   name: 'Playlists App',
+  //   desc: 'An app displaying your spotify playlists',
+  //   icons: [ICONS.react, ICONS.js],
+  //   link: 'https://github.com/KaustubhD/playlist-app'
+  // },
   {
     name: 'Text to Emoji',
     desc: 'An app to convert your text to emojis',
     icons: [ICONS.js],
-    link: 'https://github.com/KayDee/TextToEmoji'
+    link: 'https://github.com/KaustubhD/TextToEmoji'
   },
   {
     name: 'Portfolio API',
     desc: 'An API about myself',
     icons: [ICONS.react, ICONS.graphql],
-    link: 'https://github.com/KayDee/graphql-personal'
+    link: 'https://github.com/KaustubhD/graphql-personal'
   },
   {
     name: 'Colorful Contri',
     desc: 'A chrome extension to colorify GitHub contributions',
     icons: [ICONS.js],
-    link: 'https://github.com/KayDee/colorful-contri'
+    link: 'https://github.com/KaustubhD/colorful-contri'
   }
 ]

@@ -18,7 +18,7 @@ class Landing extends Component{
         <meta name="apple-mobile-web-app-status-bar-style" content={this.context.theme.backgroundHex} />
         <Nav />
         <div className="about">
-          <h1 style={STYLES}>Hello, I am Kay</h1>
+          <h1 style={STYLES}>Yello, I am Kaustubh</h1>
           <h2 style={STYLES}>Stupid | Code Kiddie | TV Series Lover</h2>
           <SocialIcons />
         </div>

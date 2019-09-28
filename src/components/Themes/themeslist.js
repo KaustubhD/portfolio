@@ -1,10 +1,10 @@
 export const themesList = [
   {
     name: 'Black',
-    background: 'rgba(0,0,0, 1)',
-    text: 'rgba(255, 255, 255, 1)',
-    highlight: 'rgba(50, 50, 50, 1)',
-    translucent: 'rgba(0, 0, 0, 0.6)',
+    background: 'rgba(44,44,60, 1)',
+    text: 'rgba(233, 233, 235, 1)',
+    highlight: 'rgba(0, 0, 0, 1)',
+    translucent: 'rgba(44, 44, 60, 0.6)',
     shadowDark: 'rgba(100, 100, 100, 0.7)',
     shadowLight: 'rgba(100, 100, 100, 0.5)'
   },
@@ -77,6 +77,6 @@ export const themesList = [
     shadowDark: 'rgba(0,0,0,0.7)',
     shadowLight: 'rgba(0,0,0,0.5)'
   },
-  
+
 ]
 // export default themesList
